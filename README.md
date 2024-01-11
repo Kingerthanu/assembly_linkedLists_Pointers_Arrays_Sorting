@@ -13,3 +13,7 @@ Sort C vs Assembly:
 
 
 ----------------------------------------
+
+Pointer C vs Assembly:
+
+![pointer1](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/a0839206-f861-4c7a-b804-1e0041b57e93)
