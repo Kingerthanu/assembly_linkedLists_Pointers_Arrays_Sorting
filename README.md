@@ -31,5 +31,5 @@ Array C vs Assembly:
 
 Linked List C vs Assembly:
 
-![linked2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/9a7bf348-c1a8-498b-90a9-17bfee279e83)
+![linked2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/eb57e3d2-aef8-4bdd-b0e6-4176c3bad520)
 ![linked1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/e3ecc8d2-8699-4962-bf05-c956225aac24)
