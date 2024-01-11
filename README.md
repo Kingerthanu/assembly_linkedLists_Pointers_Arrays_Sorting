@@ -18,3 +18,11 @@ Pointer C vs Assembly:
 
 ![pointer2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/c5c00be7-8b5d-4bcd-8478-a8bab0a2e73d)
 ![pointer1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/be992fc1-50f3-48c1-a7d6-86697bf985c3)
+
+----------------------------------------
+
+Array C vs Assembly:
+
+
+![array2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/1374f6a1-8ad5-42c9-b58f-dbcbc1bcae73)
+![array1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/05ee1a19-d9cc-4668-a72f-d744b6e5aeb0)
