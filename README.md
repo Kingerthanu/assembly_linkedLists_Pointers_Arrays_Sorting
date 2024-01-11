@@ -6,8 +6,8 @@
 
 Sort C vs Assembly:
 
-![sort21](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/a9b17a1c-50b8-48c9-a8b7-b0ff179fa1c3)
 ![sort1](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/3634c2a0-0ec5-41b8-b0cd-2437bf853485)
+![sort21](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/a9b17a1c-50b8-48c9-a8b7-b0ff179fa1c3)
 ![sort22](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/836ee316-d384-4f6f-ac1b-01ca01528aa3)
 
 
