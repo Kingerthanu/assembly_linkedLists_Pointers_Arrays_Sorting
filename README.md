@@ -26,3 +26,10 @@ Array C vs Assembly:
 
 ![array2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/1374f6a1-8ad5-42c9-b58f-dbcbc1bcae73)
 ![array1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/1fbdea1e-78e0-4741-ae4e-d5300a95b020)
+
+----------------------------------------
+
+Linked List C vs Assembly:
+
+![linked2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/9a7bf348-c1a8-498b-90a9-17bfee279e83)
+![linked1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/e3ecc8d2-8699-4962-bf05-c956225aac24)
