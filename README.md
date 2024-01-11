@@ -16,4 +16,6 @@ Sort C vs Assembly:
 
 Pointer C vs Assembly:
 
-![pointer1](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/a0839206-f861-4c7a-b804-1e0041b57e93)
+
+![pointer2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/72898347-8be0-4fe1-b555-7a9b49d4a542)
+![pointer1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/be992fc1-50f3-48c1-a7d6-86697bf985c3)
