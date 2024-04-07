@@ -9,7 +9,15 @@
 
 **The Breakdown:**
 
+  Functionality Wise This Is Quite A Straight Forward C -> Assembly Program In Which I Saw Myself Intrepreting Line-By-Line What Each Part Of Assembly Was Doing For A C Program By Converting It To The Language.
 
+  This Includes A Program For A Sort Function In Which Sorts A Given Array In C Using A Simple Swap Algorithm. This Is Then Interpreted Into Assembly.
+
+  Another Program Is A Pointer Program In Which In C We Define A Pointer And Print Each Of Its Individual Parts (I.E. ptr [value],  *ptr [dereferenced value], &ptr [reference value]). This Is Then Also Interpreted Into Assembly
+
+  Finally We Have A Linked List Program In C In Which Creates A Linked List Structure And Connects The Nodes Then Traverses Through Them Printing Their Value. We Then Interpreted This Into Assembly.
+
+  While Functionally This Is Quite Close-Ended, It Was A Huge Learning Opporunity As I Saw How Annoying Assembly Was But Also How Powerful And Intuitive It Can Be In Many Cases If You Are Accustomed To The Registers And Their Mainly Defined Usages.
 
 <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/4abe8958-f400-49c8-ac5b-616e19bf1408" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/4abe8958-f400-49c8-ac5b-616e19bf1408" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/4abe8958-f400-49c8-ac5b-616e19bf1408" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/4abe8958-f400-49c8-ac5b-616e19bf1408" alt="Cornstarch <3" width="55" height="49">
 
