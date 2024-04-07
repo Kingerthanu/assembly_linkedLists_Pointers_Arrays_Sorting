@@ -23,7 +23,7 @@
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/481dd21b-7aab-4856-84aa-8ea64299b5b1" alt="Cornstarch <3" width="55" height="49">
 
 
 
@@ -59,3 +59,7 @@ Linked List C vs Assembly:
 
 ![linked2_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/eb57e3d2-aef8-4bdd-b0e6-4176c3bad520)
 ![linked1_](https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/e3ecc8d2-8699-4962-bf05-c956225aac24)
+
+
+<img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/75b4e262-7519-4e44-bed9-2605ce31c439" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/75b4e262-7519-4e44-bed9-2605ce31c439" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/75b4e262-7519-4e44-bed9-2605ce31c439" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_linkedLists_Pointers_Arrays_Sorting/assets/76754592/75b4e262-7519-4e44-bed9-2605ce31c439" alt="Cornstarch <3" width="55" height="49">
+
